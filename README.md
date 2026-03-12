@@ -1,4 +1,4 @@
-# Python Basics Practice 🐍
+# Python Basics Practice 
 
 This repository contains my **Python basics practice notes** created while learning programming for **Data Science and Python development**.
 
